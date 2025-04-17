@@ -21,11 +21,11 @@ Learning about GIT
 2. [ ] **2. GIT installation**    
     1. [x] 2.1. Chapter 1.  
     2. [x] 2.2. Chapter 2.  
-    3. [ ] 2.3. Chapter 3.    
+    3. [x] 2.3. Chapter 3.    
 3. [ ] **3. Tips & Tricks**
     1. [x] 3.1. Chapter 1.  
     2. [x] 3.2. Chapter 2.
-    3. [ ] 3.3. Chapter 3.    
+    3. [x] 3.3. Chapter 3.    
 
 ## Table
 
