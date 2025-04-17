@@ -29,7 +29,8 @@ Learning about GIT
 4. [ ] **3. About me**
     1. [ ] 3.1. Chapter 1.  
     2. [ ] 3.2. Chapter 2.
-    3. [ ] 3.3. Chapter 3. 
+    3. [ ] 3.3. Chapter 3.
+    4. [ ] 3.4. Chapter 4. 
 
 ## Table
 
