@@ -18,19 +18,24 @@ Learning about GIT
     1. [x] 1.1. Chapter 1.  
     2. [x] 1.2. Chapter 2.  
     3. [x] 1.3. Chapter 3.    
-2. [ ] **2. GIT installation**    
+2. [x] **2. GIT installation**    
     1. [x] 2.1. Chapter 1.  
     2. [x] 2.2. Chapter 2.  
     3. [x] 2.3. Chapter 3.    
-3. [ ] **3. Tips & Tricks**
+3. [x] **3. Tips & Tricks**
     1. [x] 3.1. Chapter 1.  
     2. [x] 3.2. Chapter 2.
     3. [x] 3.3. Chapter 3.
-4. [ ] **3. About me**
-    1. [ ] 3.1. Chapter 1.  
-    2. [ ] 3.2. Chapter 2.
-    3. [ ] 3.3. Chapter 3.
-    4. [ ] 3.4. Chapter 4. 
+4. [x] **3. About me**
+    1. [x] 4.1. Chapter 1.  
+    2. [x] 4.2. Chapter 2.
+    3. [x] 4.3. Chapter 3.
+    4. [x] 4.4. Chapter 4.
+5. [x] **3. About me**
+    1. [x] 5.1. Chapter 1.  
+    2. [x] 5.2. Chapter 2.
+    3. [x] 5.3. Chapter 3.
+    4. [x] 5.4. Chapter 4. 
 
 ## Table
 
