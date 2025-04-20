@@ -35,7 +35,8 @@ Learning about GIT
     1. [x] 5.1. Chapter 1.  
     2. [x] 5.2. Chapter 2.
     3. [x] 5.3. Chapter 3.
-    4. [x] 5.4. Chapter 4. 
+    4. [x] 5.4. Chapter 4.
+    5. [x] 5.5. Chapter 5. 
 
 ## Table
 
