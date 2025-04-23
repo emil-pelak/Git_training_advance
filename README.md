@@ -48,4 +48,3 @@ Learning about GIT
 | Poland  | Warsaw       | Europe    | ![alt Polish flag](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/250px-Flag_of_Poland_%28normative%29.svg.png "Polish flag") |
 | Germany | Berlin       | Europe    |      |
 | France  | Paris        | Europe    |      |
-Unexpected changes
