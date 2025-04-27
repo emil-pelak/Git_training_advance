@@ -26,12 +26,12 @@ Learning about GIT
     1. [x] 3.1. Chapter 1.  
     2. [x] 3.2. Chapter 2.
     3. [x] 3.3. Chapter 3.
-4. [x] **3. About me**
+4. [x] **4. About me**
     1. [x] 4.1. Chapter 1.  
     2. [x] 4.2. Chapter 2.
     3. [x] 4.3. Chapter 3.
     4. [x] 4.4. Chapter 4.
-5. [x] **3. About me**
+5. [x] **5. About me**
     1. [x] 5.1. Chapter 1.  
     2. [x] 5.2. Chapter 2.
     3. [x] 5.3. Chapter 3.
@@ -42,6 +42,21 @@ Learning about GIT
     8. [x] 5.8. Chapter 8.
     9. [x] 5.9. Chapter 9.
     10. [x] 5.10. Chapter 10.
+    11. [x] 5.11. Chapter 11.
+    12. [x] 5.12. Chapter 12.
+6. [x] **6. Additional materials**
+    1. [x] 5.1. Chapter 1.  
+    2. [x] 5.2. Chapter 2.
+    3. [x] 5.3. Chapter 3.
+    4. [x] 5.4. Chapter 4.
+    5. [x] 5.5. Chapter 5.
+    6. [x] 5.6. Chapter 6.
+    7. [x] 5.7. Chapter 7.
+    8. [x] 5.8. Chapter 8.
+    9. [x] 5.9. Chapter 9.
+    10. [x] 5.10. Chapter 10.
+    11. [x] 5.11. Chapter 11.
+    12. [x] 5.12. Chapter 12.
 
 ## Table
 
